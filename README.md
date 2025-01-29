@@ -2,8 +2,9 @@
 
 > Status de projeto: Em desenvolvimento
 
-> Para rpdar esse projeto na sua maquiina,por favor digite:
+> Para rodar esse projeto na sua maquiina,por favor digite:
 
 ```
 npm app.js
 ```
+<h1>testando <h1>
