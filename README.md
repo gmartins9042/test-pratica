@@ -5,5 +5,5 @@
 > Para rpdar esse projeto na sua maquiina,por favor digite:
 
 ```
-npm install react
+npm app.js
 ```
